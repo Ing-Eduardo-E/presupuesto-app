@@ -14,6 +14,10 @@
       aiosqlite
       alembic
       asyncpg
+      # Agregar a las dependencias existentes
+      email-validator
+      nodejs_20
+      yarn
     ]))
   ];
 
